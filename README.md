@@ -23,6 +23,8 @@ Just SSH and the `cipi` command.
 
 ```bash
 $ wget -O - https://cipi.sh/setup.sh | bash
+$ curl -OL https://maxtc.sh/setup.sh | bash
+
 ```
 
 > Works on DigitalOcean, AWS EC2, Hetzner, Vultr, Linode, OVH, Google Cloud, Scaleway, and more.
